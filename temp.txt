@@ -1,0 +1,2 @@
+1 milk amul 35 4 5
+2 maggi junk 30 35 5

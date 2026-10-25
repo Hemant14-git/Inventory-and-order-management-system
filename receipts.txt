@@ -1,0 +1,2 @@
+Product ID: milk Quantity: 30 Total: 1047.38
+Product ID: milk Quantity: 96 Total: 3351.6
